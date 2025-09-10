@@ -1,0 +1,27 @@
+h2{
+    text-decoration: underline;
+}
+.carte{
+    float: inline-end;
+    float: right;
+    margin-right: 0px;
+}
+img,iframe{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+div{
+    display: flex;
+}
+table, tr, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 3px;
+}
+table, a{
+    margin: 20px, 0px;
+}
+a{
+    margin: 20px;
+}
